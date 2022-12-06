@@ -2,7 +2,7 @@ pipline{
 agent any
 stages
 {
-stage9'Build')
+stage('Build')
 {
 steps{
 echo "Testing the project....."
